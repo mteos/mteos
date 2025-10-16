@@ -1,4 +1,4 @@
-# mteos
+# Matheus
 ### 🧠 Sobre mim
 - 📚 Estudando **C** e **Python**
   
